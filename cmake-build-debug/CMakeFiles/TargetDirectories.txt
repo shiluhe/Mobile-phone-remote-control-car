@@ -1,0 +1,3 @@
+C:/STM32_WorkSpace/RC2/cmake-build-debug/CMakeFiles/RC2.elf.dir
+C:/STM32_WorkSpace/RC2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/STM32_WorkSpace/RC2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
